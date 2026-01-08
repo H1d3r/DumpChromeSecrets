@@ -1,6 +1,12 @@
+> [!IMPORTANT]
+> **This project is no longer maintained. Please use [DumpBrowserSecrets](https://github.com/Maldev-Academy/DumpBrowserSecrets?ref=DumpChromeSecrets) instead, which supports Chrome, Edge, Brave, Firefox, Opera, Opera GX, and Vivaldi.**
+
+<br>
+
 ## DumpChromeSecrets
 
 Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks. 
+
 
 <br>
 
